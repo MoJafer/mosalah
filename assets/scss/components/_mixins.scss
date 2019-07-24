@@ -1,0 +1,12 @@
+@mixin background-page(){
+  background: rgb(255,255,255);
+  background: -moz-radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(150,150,150,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(150,150,150,1) 100%);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(150,150,150,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#969696",GradientType=1);
+}
+
+@mixin animation($name, $duration, $delay, $function,  ){
+  -webkit-animation: $name $duration $delay $function; /* Safari 4.0 - 8.0 */
+  animation: $name $duration $delay $function
+}
