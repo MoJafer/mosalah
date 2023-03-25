@@ -1,4 +1,4 @@
-![preview](preview.gif)
+![preview](preview.)
 # mosalah
 
 Personl and responsive HTML page 
