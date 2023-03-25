@@ -1,4 +1,4 @@
-[![Preview](https://mostaql.hsoubcdn.com/uploads/311817-ROevL-1563968339-5d3843531bb7a.png "Preview")](https://mojaffer.000webhostapp.com/mosalah/index.html#! "Preview")
+![preview](preview.gif)
 # mosalah
 
 Personl and responsive HTML page 
